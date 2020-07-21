@@ -11,14 +11,13 @@ redirect_from:
 
 ## Education
 
-<p style="text-align:left;">
-    <b>M.S., Mechanical Engineering (expected)</b>
-    <span style="float:right;">
-        <i>August 2019 - May 2021</i>
-    </span>
-</p>
-<p style="text-align:left;">
-  University of Minnesota, Twin Cities
+<p style="margin-left: 40px;">
+  <b>M.S., Mechanical Engineering (expected)</b>
+  <span style="float:right;">
+    <i>August 2019 - May 2021</i>
+  </span>
+  <b>University of Minnesota, Twin Cities</b>
+  <b>GPA: 4.0/4.0</b>
 </p>
 
 <p style="text-align:left;">
