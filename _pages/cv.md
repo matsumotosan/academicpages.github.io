@@ -12,6 +12,7 @@ redirect_from:
 ## Education
 
 <p style="margin-left: 40px"><b>M.S., Mechanical Engineering (expected)</b>
+<p style="margin-right: 40px"><i>August 2019 - May 2021</i></p>
 <br>University of Minnesota, Twin Cities
 <br><i>August 2019 - May 2021</i></p>
 
