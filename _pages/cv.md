@@ -38,7 +38,16 @@ redirect_from:
     GPA: 3.98/4.0
 </p>
 
-## Employment
+## Experience
+
+<p style="margin-left: 40px;">
+    <b>B.S., Biomedical Engineering</b>
+    <span style="float:right;">
+        <i>August 2015 - May 2019</i>
+    </span><br>
+    Worcester Polytechnic Institute<br>
+    GPA: 3.98/4.0
+</p>
 
 * Fall 2019 - Current: Graduate Research Assistant at University of Minnesota, Twin Cities
   * Constructing statistical shape models of aortas
@@ -61,16 +70,49 @@ redirect_from:
   * Designed and detailed tooling in SolidWorks with tolerances at the thousandths and sub-thousandths level while minimizing tolerance stack-ups for proper alignment at assembly
   * Assembled and debugged tools upon arrival to ensure tools yielded acceptable product measurements before qualifying and authorizing release for use in production
 
-Teaching experience
-======
-* Fall 2020 - ME 3222 Graduate Teaching Assistant at University of Minnesota, Twin Cities (expected)
-* Spring 2020 - ME 3222 Graduate Teaching Assistant at University of Minnesota, Twin Cities
-* Fall 2019 - ME 3222 Graduate Teaching Assistant at University of Minnesota, Twin Cities
-* Writing Consultant - Writing Center at Worcester Polytechnic Institute
-* Undergraduate Peer Learning Assistant - Biomedical Engineering Department at Worcester Polytechnic Institute
+## Teaching
 
-Skills
-======
+<p style="margin-left: 40px;">
+    <b>ME 3222 Teaching Assistant (expected)</b>
+    <span style="float:right;">
+        <i>August 2020 - December 2020</i>
+    </span><br>
+    University of Minnesota, Twin Cities
+</p>
+
+<p style="margin-left: 40px;">
+    <b>ME 3222 Teaching Assistant</b>
+    <span style="float:right;">
+        <i>January 2020 - May 2020</i>
+    </span><br>
+    University of Minnesota, Twin Cities
+</p>
+
+<p style="margin-left: 40px;">
+    <b>ME 3222 Teaching Assistant</b>
+    <span style="float:right;">
+        <i>August 2019 - December 2019</i>
+    </span><br>
+    University of Minnesota, Twin Cities
+</p>
+
+<p style="margin-left: 40px;">
+    <b>Writing Consultant</b>
+    <span style="float:right;">
+        <i>October 2016 - May 2019</i>
+    </span><br>
+    Worcester Polytechnic Institute
+</p>
+
+<p style="margin-left: 40px;">
+    <b>Undergraduate Peer Learning Assistant</b>
+    <span style="float:right;">
+        <i>October 2016 - May 2019</i>
+    </span><br>
+    Worcester Polytechnic Institute
+</p>
+
+## Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -86,6 +128,26 @@ Skills
  
 ## Awards
 
-* Mechanical Engineering Department Master's Fellow, University of Minnesota - Twin Cities, 2019
-* Salisbury Award, Worcester Polytechnic Institute, April 2019
-* Biomedical Engineering Department Major Qualifying Project Finalist, Worcester Polytechnic Institute, 2019
+<p style="margin-left: 40px;">
+    <b>Mechanical Engineering Department Master's Fellow</b>
+    <span style="float:right;">
+        <i>May 2019</i>
+    </span><br>
+    University of Minnesota, Twin Cities
+</p>
+
+<p style="margin-left: 40px;">
+    <b>Salisbury Award</b>
+    <span style="float:right;">
+        <i>April 2019</i>
+    </span><br>
+    Worcester Polytechnic Institute
+</p>
+
+<p style="margin-left: 40px;">
+    <b>Biomedical Engineering Department Major Qualifying Project Finalist</b>
+    <span style="float:right;">
+        <i>April 2019</i>
+    </span><br>
+    Worcester Polytechnic Institute
+</p>
