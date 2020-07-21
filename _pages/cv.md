@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,14 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Mechanical Engineering, Worcester Polytechnic Institute, 2019
-* B.S. in Biomedical Engineering, Worcester Polytechnic Institute, 2019
-* M.S. in Mechanical Engineering, University of Minnesota, 2021 (expected)
+## Education
 
-Work experience
-======
+<p style="margin-left: 40px"><b>M.S., Mechanical Engineering</b>
+<br>University of Minnesota, Twin Cities
+<br><i>August 2019 - May 2021</i></p>
+
+<p style="margin-left: 40px"><b>M.S., Mechanical Engineering</b>
+<br>Worcester Polytechnic Institute
+<br><i>August 2015 - May 2019</i></p>
+
+<p style="margin-left: 40px"><b>M.S., Biomedical Engineering</b>
+<br>Worcester Polytechnic Institute
+<br><i>August 2015 - May 2019</i></p>
+
+## Employment
+
 * Fall 2019 - Current: Graduate Research Assistant at University of Minnesota, Twin Cities
   * Constructing statistical shape models of aortas
   * Predict risk of aortic aneurysms based on model
@@ -55,20 +63,14 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-Awards
-======
+## Awards
+
 * Mechanical Engineering Department Master's Fellow, University of Minnesota - Twin Cities, 2019
 * Salisbury Award, Worcester Polytechnic Institute, April 2019
 * Biomedical Engineering Department Major Qualifying Project Finalist, Worcester Polytechnic Institute, 2019
- 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
