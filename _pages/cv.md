@@ -17,15 +17,16 @@ redirect_from:
         <i>August 2019 - May 2021</i>
     </span>
 </p>
+<p style="text-align:left;">
+  University of Minnesota, Twin Cities
+</p>
 
-<p style="margin-left: 40px"><b>M.S., Mechanical Engineering (expected)</b>
-<p style="margin-right: 40px"><i>August 2019 - May 2021</i></p>
-<br>University of Minnesota, Twin Cities
-<br><i>August 2019 - May 2021</i></p>
-
-<p style="margin-left: 40px"><b>B.S., Mechanical Engineering</b>
-<br>Worcester Polytechnic Institute
-<br><i>August 2015 - May 2019</i></p>
+<p style="text-align:left;">
+    <b>B.S., Mechanical Engineering</b>
+    <span style="float:right;">
+        <i>August 2015 - May 2019</i>
+    </span>
+</p>
 
 <p style="margin-left: 40px"><b>B.S., Biomedical Engineering</b>
 <br>Worcester Polytechnic Institute
