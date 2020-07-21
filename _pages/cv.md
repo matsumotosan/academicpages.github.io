@@ -15,21 +15,28 @@ redirect_from:
   <b>M.S., Mechanical Engineering (expected)</b>
   <span style="float:right;">
     <i>August 2019 - May 2021</i>
-  </span>
-  <b>University of Minnesota, Twin Cities</b>
-  <b>GPA: 4.0/4.0</b>
+  </span><br>
+  University of Minnesota, Twin Cities<br>
+  GPA: 4.0/4.0
 </p>
 
-<p style="text-align:left;">
+<p style="margin-left: 40px;">
     <b>B.S., Mechanical Engineering</b>
     <span style="float:right;">
         <i>August 2015 - May 2019</i>
-    </span>
+    </span><br>
+    Worcester Polytechnic Institute<br>
+    GPA: 3.98/4.0
 </p>
 
-<p style="margin-left: 40px"><b>B.S., Biomedical Engineering</b>
-<br>Worcester Polytechnic Institute
-<br><i>August 2015 - May 2019</i></p>
+<p style="margin-left: 40px;">
+    <b>B.S., Biomedical Engineering</b>
+    <span style="float:right;">
+        <i>August 2015 - May 2019</i>
+    </span><br>
+    Worcester Polytechnic Institute<br>
+    GPA: 3.98/4.0
+</p>
 
 ## Employment
 
