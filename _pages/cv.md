@@ -15,11 +15,11 @@ redirect_from:
 <br>University of Minnesota, Twin Cities
 <br><i>August 2019 - May 2021</i></p>
 
-<p style="margin-left: 40px"><b>M.S., Mechanical Engineering</b>
+<p style="margin-left: 40px"><b>B.S., Mechanical Engineering</b>
 <br>Worcester Polytechnic Institute
 <br><i>August 2015 - May 2019</i></p>
 
-<p style="margin-left: 40px"><b>M.S., Biomedical Engineering</b>
+<p style="margin-left: 40px"><b>B.S., Biomedical Engineering</b>
 <br>Worcester Polytechnic Institute
 <br><i>August 2015 - May 2019</i></p>
 
