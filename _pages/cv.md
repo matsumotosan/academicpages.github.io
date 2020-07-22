@@ -41,17 +41,34 @@ redirect_from:
 ## Experience
 
 <p style="margin-left: 40px;">
-    <b>B.S., Biomedical Engineering</b>
+    <b>Research Assistant</b>
     <span style="float:right;">
-        <i>August 2015 - May 2019</i>
+        <i>August 2019 - Present</i>
     </span><br>
-    Worcester Polytechnic Institute<br>
-    GPA: 3.98/4.0
+    University of Minnesota, Twin Cities<br>
 </p>
 
-* Fall 2019 - Current: Graduate Research Assistant at University of Minnesota, Twin Cities
-  * Constructing statistical shape models of aortas
-  * Predict risk of aortic aneurysms based on model
+<p style="margin-left: 40px;">
+    <b>R&D Engineering Intern</b>
+    <span style="float:right;">
+        <i>May 2018 - August 2018</i>
+    </span><br>
+    Gentuity<br>
+    <ul>
+        <li>Designed and validated a bench top flow model to measure pressure differential across a 3D-printed phantom for validation of a CFD model</li>
+        <li>Programmed Python and MATLAB scripts to reconstruct lumen profile based on intravascular imaging lumen segmentation data into 3D objects used for 3D-printing and CFD models</li>
+        <li>Programmed Python and MATLAB scripts to reconstruct lumen profile based on intravascular imaging lumen segmentation data into 3D objects used for 3D-printing and CFD models</li>
+        <li>Performed post-processing of results in ParaView, Python, and MATLAB</li>
+    </ul>
+</p>
+
+<p style="margin-left: 40px;">
+    <b>Manufacturing Engineering Intern</b>
+    <span style="float:right;">
+        <i>May 2017 - August 2017</i>
+    </span><br>
+    Samtec<br>
+</p>
 
 * Summer 2018: R&D Engineering Intern at Gentuity
   * Designed and validated a bench top flow model to measure pressure differential across a 3D-printed phantom for validation of a CFD model
